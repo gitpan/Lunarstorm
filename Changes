@@ -1,0 +1,6 @@
+Revision history for Perl extension WWW::Community::Lunarstorm.
+
+0.01  Fri Jul 23 00:34:32 2004
+	- original version; created by h2xs 1.21 with options
+		-X -n WWW::Community::Lunarstorm
+
